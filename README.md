@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/mahmoud-mohamed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://mahmmoudmohamed.github.io" target="_blank">
+  <a href="https://Hamood75.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-blueviolet?style=for-the-badge&logo=githubpages" />
   </a>
   <a href="mailto:mahmoud@example.com">
@@ -44,11 +44,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmmoudMohamed&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hamood75&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmmoudMohamed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamood75&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmmoudMohamed&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamood75&layout=compact&theme=tokyonight" />
 </p>
 
 ---
